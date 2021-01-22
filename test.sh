@@ -1,2 +1,1 @@
-#!/bin/bash
-touch /tmp/a.dat
+echo 12345 > /tmp/a.dat 
